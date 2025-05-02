@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KaptainAhoibrause
-- 👀 I’m interested in Python, Dart, Linux and others
+- 👀 I’m interested in Python, Dart, Linux and It4Kids
 - 🌱 I’m currently learning Web Developement
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? You're already here ;)
 
 <!---
